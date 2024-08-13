@@ -79,9 +79,11 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
   # Screenshot
-
-![Screenshot 2024-08-13 195523](https://github.com/user-attachments/assets/52492389-02c7-4dc2-a78c-c6ef94c57f3d)
+![Screenshot 2024-08-13 195510](https://github.com/user-attachments/assets/bfb4190e-fe44-4fcb-bf58-b67f8a80cd3e)
 
 ![Screenshot 2024-08-13 195517](https://github.com/user-attachments/assets/ad06b8f6-b717-4651-b80c-b02ce0f2f96e)
 
-![Screenshot 2024-08-13 195510](https://github.com/user-attachments/assets/bfb4190e-fe44-4fcb-bf58-b67f8a80cd3e)
+![Screenshot 2024-08-13 195523](https://github.com/user-attachments/assets/52492389-02c7-4dc2-a78c-c6ef94c57f3d)
+
+
+
